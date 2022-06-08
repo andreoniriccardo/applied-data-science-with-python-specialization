@@ -17,23 +17,23 @@ This GitHub repository contains all the coding material that I wrote and studied
 
 ### What does this course deal?
 - Principles of information visualization
-	- Data-ink ratio
-	- Chart junk
-	- Lie Factor
+	- **Data-ink ratio**
+	- **Chart junk**
+	- **Lie Factor**
 - Charting
-	- Matplotlib architecture
-	- Scatterplots
-	- Line plots
-	- Bar Charts
+	- **Matplotlib** architecture
+	- **Scatterplots**
+	- **Line plots**
+	- **Bar Charts**
 	- Subplots
-	- Histograms
-	- Box plots
-	- Heatmaps
-	- Animation
-	- Interactivity
+	- **Histograms**
+	- **Box plots**
+	- **Heatmaps**
+	- **Animation**
+	- **Interactivity**
 - Appied Visualization
-	- Plotting with Pandas
-	- Seaborn
+	- Plotting with **Pandas**
+	- **Seaborn**
 
 ### Coding assignments
 - **Plotting Weather Patterns**: reading a real world data contained in a csv file and plotting insightful information
