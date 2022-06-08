@@ -1,7 +1,7 @@
 # Applied Data Science with Python Specialization
 This specialization is composed of 5 independent courses.
 
-In this document, for each course, I summarize what I learned, how it enhanced my data scientist skills and what programming assignment consists to.
+In this document, for each course, I summarize what I learned, how it enhanced my data scientist skills, and what programming assignment consists to.
 
 This GitHub repository contains all the coding material that I wrote and studied for this specialization.
 
