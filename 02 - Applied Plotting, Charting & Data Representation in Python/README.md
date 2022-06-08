@@ -25,7 +25,7 @@
 	- Heatmaps
 	- Animation
 	- Interactivity
-- Appied Visualization
+- Applied Visualization
 	- Plotting with Pandas
 	- Seaborn
 
