@@ -1,35 +1,25 @@
-
-# [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome)
+# [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)
 
 ## How did this course enhance my Data Science skills?
-- I know the main principles for information visualization, including heuristics as data-ink ratio, chart junk and lie factors
-- I know how to code with the most popular python charting libraries as Matplotlib and Seaborn
-- I know how to generate different types of charts and the ratio behind them
-- I know how to add animations and interactivity to a chart
-- I know hot to fetch, read, clean and extract insightful graphics from real-world dataset
-- I am able to address research questions by creating visuals from real-world data
+- I know how to load, manipulate and select data using Numpy, as well as the fundamental data types
+- I understand the benefits of vectorization
+- I am able to apply Regular Expression to string data
+- I deeply know the Pandas Series and DataFrames classes and I am able to perform operations like querying, manipulating, merging and extracting aggregated information from them
+- I am capable of performing basic statistical tests on Pandas DataFrames
 
 ## What does this course deal?
-- Principles of information visualization
-	- Data-ink ratio
-	- Chart junk
-	- Lie Factor
-- Charting
-	- Matplotlib architecture
-	- Scatterplots
-	- Line plots
-	- Bar Charts
-	- Subplots
-	- Histograms
-	- Box plots
-	- Heatmaps
-	- Animation
-	- Interactivity
-- Applied Visualization
-	- Plotting with Pandas
-	- Seaborn
-
+- Python functions
+- Python **data types**
+- Reading and writing **CSV files**
+- Python **Dates and Times**
+- Advanced Python Objects, **map()**
+- Advanced Python **Lambda** and **List Comprehensions**
+- Text manipulation with **Regular Expression**
+- **Pandas**: **Series** and **DataFrames**
+- **DataFrame manipulations**: merging, group by, scales, pivot tables, date/time functionality
+- **Statistical testing**
 ## Coding assignments
-- **Plotting Weather Patterns**: reading a real world data contained in a csv file and plotting insightful information
-- **Building a Custom Visualization**: generating and insightful visual about probabilistic data using Matplotlib
-- **Final project**: identification of public datasets from a geographical region, stating a research question that can be answered using the datasets and creating a visual that addresses the research question
+- **RegEx**: applying Regular Expression commands to solve text manipulation tasks
+- **2017 immunization data from CDC**: manipulating a real-world database to answer related statistical questions
+- **Energy supply and renewable electricity production**: manipulating a real-world database to answer related statistical questions
+- **Metropolitan regions sports teams**: web scraping data bout the 4 major US sport leagues (NFL, MLB, NBA, NHL), manipulating the DataFrame in order to retrieve non-trivial information
