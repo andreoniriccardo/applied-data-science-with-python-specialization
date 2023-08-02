@@ -111,4 +111,24 @@ This GitHub repository contains all the coding material that I wrote and studied
 ---
 ## 04 - Applied Text Mining in Python
 
-## 05 - Applied Social Network Analysis in Python
+## 05 - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python)
+
+### What does this course deal?
+- Introduction to networks
+	- Types of networks
+	- Node and edges attributes
+- Network Connectivity
+	- Clustering Coefficient
+	- Distance Measures
+	- Network Robustness
+- Networkx library
+	- Loading networks
+	- Computing Network connectivity measures
+	- Network visualization
+- Influence Measures
+	- Betweenness Centrality
+	- Page Rank
+	- Hubs and Authorities
+- Network Models
+	- Preferential Attachment Model
+	- Small World Network
